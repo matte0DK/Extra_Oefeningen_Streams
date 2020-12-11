@@ -47,7 +47,6 @@ public class Oefeningen {
                     }
                 })
                 .forEach(i -> System.out.print(i + " "));
-
     }
 
     private static void checkSize(int i) throws TooBigTooHandleException {
